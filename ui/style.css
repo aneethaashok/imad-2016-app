@@ -11,6 +11,12 @@ body {
 .text-big {
     font-size: 300%;
 }
+.text-small {
+     font-size: 100%;
+}
+.text-head {
+     font-size: 200%;
+}
 
 .bold {
     font-weight: bold;
