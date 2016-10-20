@@ -10,12 +10,15 @@ body {
 
 .text-big {
     font-size: 300%;
+    color: blue;
 }
 .text-small {
      font-size: 100%;
+     color: red;
 }
 .text-head {
      font-size: 200%;
+     color: pink;
 }
 
 .bold {
